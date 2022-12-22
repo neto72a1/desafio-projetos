@@ -1,2 +1,3 @@
 # desafio-projetos
-Desafio de projetos orange tech
+repositório do desafio de projeto da DIO de GIT/GitHub
+Repositório criado para o Desafio de projetos orange tech
